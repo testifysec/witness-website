@@ -2,6 +2,7 @@
 title: "Overview"
 weight: 1
 linkTitle: "Overview"
+description: "Overview of Witness"
 ---
 
 ![witness](logo.png#center)

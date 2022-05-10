@@ -2,7 +2,7 @@
 title: "Git"
 linkTitle: "Git"
 date: 2022-05-01
-description: Collect information about the state of a git repository
+description: "Collect information about the state of a git repository"
 ---
 
 The Git Attestor records the current state of the objects in the git repository, including untracked objects.

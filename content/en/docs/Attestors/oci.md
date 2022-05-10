@@ -2,7 +2,7 @@
 title: "OCI"
 linkTitle: "OCI"
 date: 2022-05-01
-description: Collect information about an OCI image
+description: "Collect information about an OCI image"
 ---
 
 The OCI Attestor records information about a provided [Open Container Initiative](https://opencontainers.org/) (OCI) image stored on disk as a tarball.

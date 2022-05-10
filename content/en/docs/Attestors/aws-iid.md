@@ -2,7 +2,7 @@
 title: "AWS Instance Identity"
 linkTitle: "AWS Instance Identity"
 date: 2022-05-01
-description: Attest that a command was executed on an AWS instance you trust
+description: "Attest that a command was executed on an AWS instance you trust"
 ---
 
 The AWS (Amazon Web Services) Instance Identity Attestor communicates with the AWS Instance Metadata to collect

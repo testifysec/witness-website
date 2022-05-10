@@ -2,7 +2,7 @@
 title: "Environment"
 linkTitle: "Environment"
 date: 2022-05-01
-description: Collect information about the environment
+description: "Collect information about the environment"
 ---
 
 The Environment Attestor records the OS, hostname, username, and all environment variables set

@@ -2,7 +2,7 @@
 title: "Material"
 linkTitle: "Material"
 date: 2022-05-01
-description: Collect information about files before a command is executed
+description: "Collect information about files before a command is executed"
 ---
 
 The Material Attestor records the digests of all files in the working directory of TestifySec Witness

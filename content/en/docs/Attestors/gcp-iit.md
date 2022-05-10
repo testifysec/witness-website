@@ -2,7 +2,7 @@
 title: "GCP Instance Identity"
 linkTitle: "GCP Instance Identity"
 date: 2022-05-01
-description: Attest that a command was executed on a GCP instance you trust
+description: "Attest that a command was executed on a GCP instance you trust"
 ---
 
 The [Google Cloud Platform](https://console.cloud.google.com/getting-started?supportedpurview=project) (GCP) Instance Identity Attestor communicates with the [GCP metadata server](https://cloud.google.com/appengine/docs/standard/java/accessing-instance-metadata) to collect information

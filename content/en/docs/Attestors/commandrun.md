@@ -2,7 +2,7 @@
 title: "Command"
 linkTitle: "Command"
 date: 2022-05-01
-description: Collect information about and trace the execution of a command
+description: "Collect information about and trace the execution of a command"
 ---
 
 The Command Attestor collects information about a command that TestifySec Witness executes and observes.

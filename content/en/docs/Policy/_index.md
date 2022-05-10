@@ -2,6 +2,7 @@
 title: "Policy"
 weight: 20
 linkTitle: "Policy"
+description: "How to write and enforce policy with Witness"
 ---
 
 TestifySec Witness policies allow users to make assertions and test attestation collections generated during a `Witness run`.

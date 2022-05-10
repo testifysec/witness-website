@@ -2,7 +2,7 @@
 title: "Product"
 linkTitle: "Product"
 date: 2022-05-01
-description: Collect information about files after a command is executed
+description: "Collect information about files after a command is executed"
 ---
 
 # Product Attestor

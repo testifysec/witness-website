@@ -2,7 +2,7 @@
 title: "Maven"
 linkTitle: "Maven"
 date: 2022-05-01
-description: Collect information about a Maven project
+description: "Collect information about a Maven project"
 ---
 
 The [Maven](https://maven.apache.org/) Attestor records project and dependency information from a provided pom.xml ([Maven Project Object Model](https://maven.apache.org/guides/introduction/introduction-to-the-pom.html)).

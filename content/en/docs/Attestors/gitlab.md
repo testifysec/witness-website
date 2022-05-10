@@ -2,7 +2,7 @@
 title: "GitLab"
 linkTitle: "GitLab"
 date: 2022-05-01
-description: Collect information about a Gitlab CI/CD Job
+description: "Collect information about a Gitlab CI/CD Job"
 ---
 
 The [GitLab](https://about.gitlab.com/) Attestor records information about the GitLab CI/CD job execution in which

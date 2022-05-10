@@ -2,6 +2,7 @@
 title: "Config"
 weight: 20
 linkTitle: "Config"
+description: "Configuring Witness"
 ---
 
 TestifySec Witness looks for the configuration file `.witness.yaml` in the current directory.
